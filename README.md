@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Where the shop owner will see what sold and the stats fot it
 
-This project is a starting point for a Flutter application.
-
-A few resources to get me started
+(NOTE THE STATS ARE NOT IMPLEMENTED AND THIS IS AN INITIAL STAGE OF MY FLUTTER JOURNEY) 
